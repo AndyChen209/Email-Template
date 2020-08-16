@@ -1,0 +1,36 @@
+div.row {
+    height: 100vh;
+}
+
+div.selected-email {
+	border: 2px solid blue;
+	color:rgb(108,161,108);
+}
+
+.date-time {
+	float:right;
+	font-size: 14px;
+	font-weight:bold;
+}
+
+.col-sm-2 {
+	background-color: #e89b74
+}
+
+.col-sm-4 {
+	background-color:#e8ebd8
+}
+
+.col-lg {
+	background-color: #e89b74
+}
+
+.sidebar-button{
+	height:70px;
+	width:200px;
+	color: #b3b7e8;
+	border: 1px solid black;
+	align-content:center;
+	margin:20px 30px;
+}
+
